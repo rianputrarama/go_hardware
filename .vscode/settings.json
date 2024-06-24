@@ -1,8 +1,0 @@
-{
-    "go.toolsEnvVars": {
-        "GOOS": "linux",
-        "GOARCH": "arm",
-        "GOROOT": "/home/veonicarin/.cache/tinygo/goroot-fabaa9720d01ef50fc01124e2a7664e251902a989e4290f34eb8097544794ded",
-        "GOFLAGS": "-tags=avr,baremetal,linux,arm,atmega328p,atmega,avr5,arduino,tinygo,purego,math_big_pure_go,gc.conservative,scheduler.none,serial.uart"
-    }
-}
